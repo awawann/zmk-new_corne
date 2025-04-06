@@ -50,7 +50,7 @@ layers:
   - SYMBOL
   - $$mdi:apple-keyboard-option$$
   NUMBER:
-  - LANGUAGE 5
+  - INT KATAKANAHIRAGANA
   - {h: '1', s: '$$mdi:bluetooth-connect$$'}
   - {h: '2', s: '$$mdi:bluetooth-connect$$'}
   - {h: '3', s: '$$mdi:bluetooth-connect$$'}
@@ -63,7 +63,7 @@ layers:
   - {t: '9', s: (}
   - {t: '0', s: )}
   - {t: '$$mdi:backspace$$', type: backspace}
-  - {t: '$$mdi:transfer$$', type: trans}
+  - LANG HANGEUL
   - BT CLR ALL
   - {h: '1', s: '$$mdi:bluetooth-connect$$'}
   - $$mdi:arrow-left-bold$$
@@ -78,7 +78,7 @@ layers:
   - $$mdi:arrow-right-bold$$
   - HOME
   - PG UP
-  - {t: '$$mdi:transfer$$', type: trans}
+  - LANGUAGE 2
   - RGB OFF
   - RGB ON
   - {t: '$$mdi:transfer$$', type: trans}
