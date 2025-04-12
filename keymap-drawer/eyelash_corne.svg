@@ -539,6 +539,28 @@ rect.held, rect.combo.held {
 <rect rx="4" ry="4" x="-20" y="-24" width="40" height="40" class="key"/>
 <text x="0" y="-4" class="key tap">.</text>
 </g>
+<g class="combo combopos-0">
+<path d="M252,119 l40,25" class="combo"/>
+<path d="M252,119 l-40,-25" class="combo"/>
+<rect rx="6" ry="6" x="238" y="106" width="28" height="26" class="combo"/>
+<text x="252" y="119" class="combo tap">&amp;ID</text>
+</g>
+<g class="combo combopos-1">
+<path d="M300,158 l37,52" class="combo"/>
+<path d="M300,158 l-37,-52" class="combo"/>
+<rect rx="6" ry="6" x="286" y="145" width="28" height="26" class="combo"/>
+<text x="300" y="158" class="combo tap">&amp;Pass</text>
+</g>
+<g class="combo combopos-2">
+<path d="M728,119 l-40,25" class="combo"/>
+<path d="M728,119 l40,-25" class="combo"/>
+<rect rx="6" ry="6" x="714" y="106" width="28" height="26" class="combo"/>
+<text x="728" y="119" class="combo tap">@</text>
+</g>
+<g class="combo combopos-3">
+<rect rx="6" ry="6" x="686" y="109" width="28" height="26" class="combo"/>
+<text x="700" y="122" class="combo tap">#</text>
+</g>
 </g>
 </g>
 <g transform="translate(40, 318)" class="layer-NUMBER">
@@ -818,6 +840,28 @@ rect.held, rect.combo.held {
 <rect rx="4" ry="4" x="-20" y="-24" width="40" height="40" class="key trans"/>
 <use href="#mdi:transfer" xlink:href="#mdi:transfer" x="-9" y="-13" height="18" width="18.0" class="key trans tap glyph mdi:transfer"/>
 </g>
+<g class="combo combopos-0">
+<path d="M252,119 l40,25" class="combo"/>
+<path d="M252,119 l-40,-25" class="combo"/>
+<rect rx="6" ry="6" x="238" y="106" width="28" height="26" class="combo"/>
+<text x="252" y="119" class="combo tap">&amp;ID</text>
+</g>
+<g class="combo combopos-1">
+<path d="M300,158 l37,52" class="combo"/>
+<path d="M300,158 l-37,-52" class="combo"/>
+<rect rx="6" ry="6" x="286" y="145" width="28" height="26" class="combo"/>
+<text x="300" y="158" class="combo tap">&amp;Pass</text>
+</g>
+<g class="combo combopos-2">
+<path d="M728,119 l-40,25" class="combo"/>
+<path d="M728,119 l40,-25" class="combo"/>
+<rect rx="6" ry="6" x="714" y="106" width="28" height="26" class="combo"/>
+<text x="728" y="119" class="combo tap">@</text>
+</g>
+<g class="combo combopos-3">
+<rect rx="6" ry="6" x="686" y="109" width="28" height="26" class="combo"/>
+<text x="700" y="122" class="combo tap">#</text>
+</g>
 </g>
 </g>
 <g transform="translate(40, 637)" class="layer-SYMBOL">
@@ -1080,6 +1124,28 @@ rect.held, rect.combo.held {
 <rect rx="4" ry="4" x="-20" y="-24" width="40" height="40" class="key trans"/>
 <use href="#mdi:transfer" xlink:href="#mdi:transfer" x="-9" y="-13" height="18" width="18.0" class="key trans tap glyph mdi:transfer"/>
 </g>
+<g class="combo combopos-0">
+<path d="M252,119 l40,25" class="combo"/>
+<path d="M252,119 l-40,-25" class="combo"/>
+<rect rx="6" ry="6" x="238" y="106" width="28" height="26" class="combo"/>
+<text x="252" y="119" class="combo tap">&amp;ID</text>
+</g>
+<g class="combo combopos-1">
+<path d="M300,158 l37,52" class="combo"/>
+<path d="M300,158 l-37,-52" class="combo"/>
+<rect rx="6" ry="6" x="286" y="145" width="28" height="26" class="combo"/>
+<text x="300" y="158" class="combo tap">&amp;Pass</text>
+</g>
+<g class="combo combopos-2">
+<path d="M728,119 l-40,25" class="combo"/>
+<path d="M728,119 l40,-25" class="combo"/>
+<rect rx="6" ry="6" x="714" y="106" width="28" height="26" class="combo"/>
+<text x="728" y="119" class="combo tap">@</text>
+</g>
+<g class="combo combopos-3">
+<rect rx="6" ry="6" x="686" y="109" width="28" height="26" class="combo"/>
+<text x="700" y="122" class="combo tap">#</text>
+</g>
 </g>
 </g>
 <g transform="translate(40, 955)" class="layer-Fn">
@@ -1332,6 +1398,28 @@ rect.held, rect.combo.held {
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key trans side"/>
 <rect rx="4" ry="4" x="-20" y="-24" width="40" height="40" class="key trans"/>
 <use href="#mdi:transfer" xlink:href="#mdi:transfer" x="-9" y="-13" height="18" width="18.0" class="key trans tap glyph mdi:transfer"/>
+</g>
+<g class="combo combopos-0">
+<path d="M252,119 l40,25" class="combo"/>
+<path d="M252,119 l-40,-25" class="combo"/>
+<rect rx="6" ry="6" x="238" y="106" width="28" height="26" class="combo"/>
+<text x="252" y="119" class="combo tap">&amp;ID</text>
+</g>
+<g class="combo combopos-1">
+<path d="M300,158 l37,52" class="combo"/>
+<path d="M300,158 l-37,-52" class="combo"/>
+<rect rx="6" ry="6" x="286" y="145" width="28" height="26" class="combo"/>
+<text x="300" y="158" class="combo tap">&amp;Pass</text>
+</g>
+<g class="combo combopos-2">
+<path d="M728,119 l-40,25" class="combo"/>
+<path d="M728,119 l40,-25" class="combo"/>
+<rect rx="6" ry="6" x="714" y="106" width="28" height="26" class="combo"/>
+<text x="728" y="119" class="combo tap">@</text>
+</g>
+<g class="combo combopos-3">
+<rect rx="6" ry="6" x="686" y="109" width="28" height="26" class="combo"/>
+<text x="700" y="122" class="combo tap">#</text>
 </g>
 </g>
 </g>

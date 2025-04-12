@@ -196,3 +196,12 @@ layers:
   - {type: held alternate}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
+combos:
+- p: [33, 16]
+  k: '&ID'
+- p: [44, 17]
+  k: '&Pass'
+- p: [36, 24]
+  k: '@'
+- p: [36, 23]
+  k: '#'
